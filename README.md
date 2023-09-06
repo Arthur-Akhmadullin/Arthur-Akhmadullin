@@ -1,5 +1,5 @@
 <h1 align="center">Привет 👋, я Артур</h1>
-<h3 align="center">Python backend-разработчик (Junior)</h3>
+<h3 align="center">QA manual, Auto QA (Python), немного Python-разработчик</h3>
 
 - 🔭 Мой проект для портфолио - интернет-магазин бритвенных принадлежностей на Django. Ссылка на репозиторий [barbershop](https://github.com/Arthur-Akhmadullin/barbershop_NEW)
  
